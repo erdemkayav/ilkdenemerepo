@@ -4,3 +4,7 @@
 x=10; y=5; z = x+y
 
 print(z);
+
+z = z*z
+
+print("print z again: ",z);
